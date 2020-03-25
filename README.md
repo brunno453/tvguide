@@ -1,10 +1,4 @@
-# tvguide<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="NOW">
-    <display-name lang="pt">NOW</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="REDE MUNDIAL">
+   <channel id="REDE MUNDIAL">
     <display-name lang="pt">REDE MUNDIAL</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
